@@ -4,7 +4,7 @@
 
 **Full Stack dev | Anthropologist | BBQ enthusiast**   
 (well, I'm argentinian after all)   
-![Gif of a cool dog](https://media1.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=b1397297w3j9lc9lvpy8rg98uombvxykpqh6e34diieagr3n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Thumbs up](https://media0.giphy.com/media/xUOxeRRkTYdQJfyy2Y/giphy.gif?cid=b1397297943lo3gqmprl3bpw5x53uo70s6cfzq60ckp53sf6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### My developer stack
 ⚡ **Front-End:** Angular | Vue | TypeScript | JavaScript  
